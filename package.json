@@ -10,7 +10,10 @@
         "poolserver",
         "zclassic",
         "zcash",
-        "equihash"
+        "equihash",
+        "globaltoken",
+        "cryptoandcoffee",
+        "crypto and coffee"
     ],
     "homepage": "https://github.com/cryptoandcoffee/z-nomp",
     "bugs": {
